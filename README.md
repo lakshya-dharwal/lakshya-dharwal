@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/ldharwal2003%40gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:ldharwal2003@gmail.com)
 &nbsp;
-[![SnipGen Live](https://img.shields.io/badge/Live%20Demo-snipgen--1.onrender.com-brightgreen?style=flat)](https://snipgen-1.onrender.com)
+[![SnipGen Live](https://img.shields.io/badge/Live%20Demo-snipgen-brightgreen?style=flat)](https://snipgen-g4on.vercel.app)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/github-ldharwal--asu-181717?style=flat&logo=github)](https://github.com/ldharwal-asu)
 
